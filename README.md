@@ -1,1 +1,2 @@
 # trabalho-conjunto
+Thiago Krug
